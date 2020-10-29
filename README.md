@@ -20,6 +20,10 @@ Bruk innebygd Microsoft Edge browser og naviger til linken
 - Åpne app'en og logg på - du vil få opp en aktiveringskode
 - Åpne vimeo.com/activate i en nettleser på en annen device og logg inn
 - Legg inn aktiveringskode og velg *Connect device*
+- Klikk på eventlinken og logg på Vimeo
+- Klikk på klokkeikonet på videoen (Watch Later) - dette gjør at videoen dukker opp i appen
+- Åpne app på AppleTV
+- Klikk Watch og finn Watch Later, åpne eventstreamen, velg fullskjerm og klikk på Chromecast-ikonet
 
 ## Windows + Miracast
 - Trykk 'Windows-tast + A' og klikk *Connect*/*Koble til*
