@@ -13,7 +13,10 @@ Har man HDMI-utgang på laptop så kan man bare koble laptop direkte til TV sin 
 Følg guide her: https://support.google.com/chromecast/answer/6059461?hl=en
 
 ## Xbox
-Bruk innebygd Microsoft Edge browser og naviger til linken
+Bruk innebygd Microsoft Edge nettleser og naviger til linken
+
+## Playstation
+Bruk innebygd nettleser og naviger til linken
 
 ## AppleTV
 - Søk etter Vimeo i App Store
