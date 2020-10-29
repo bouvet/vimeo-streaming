@@ -29,4 +29,5 @@ Krever AirPlay-kompatibel enhet koblet til TV (som f.eks AppleTV)
 
 ## SmartTV
 Noen TV'er kan ha en app - søk opp i den aktuelle app store
+
 Vimeo's egen guide: https://support.vhx.tv/article/621-how-do-i-watch-on-my-smart-tv
