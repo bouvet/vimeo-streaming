@@ -2,11 +2,6 @@
 
 Har man HDMI-utgang på laptop så kan man bare koble laptop direkte til TV sin HDMI-inngang.
 
-## iOS + Chromecast
-- Last ned siste versjon av Vimeo iOS app fra App Store
-- Åpne app på din enhet
-- Åpne video, velg fullskjerm og klikk på Chromecast-ikonet
-
 ## Android + Chromecast
 Følg guide her: https://support.google.com/chromecast/answer/6059461?hl=en
 
