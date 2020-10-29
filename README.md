@@ -10,6 +10,9 @@ Har man HDMI-utgang på laptop så kan man bare koble laptop direkte til TV sin 
 ## Android + Chromecast
 Følg guide her: https://support.google.com/chromecast/answer/6059461?hl=en
 
+## Xbox
+Bruk innebygd Microsoft Edge browser og naviger til linken
+
 ## AppleTV
 - Søk etter Vimeo i App Store
 - Åpne app'en og logg på - du vil få opp en aktiveringskode
